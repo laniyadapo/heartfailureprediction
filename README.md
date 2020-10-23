@@ -90,11 +90,11 @@ https://github.com/laniyadapo/heartfailureprediction/blob/main/Heart%20Failure%2
       
    Model | Metric
    ------------ | -------------
-   Logistic Regression | Accuracy: ~0.84375
-   Decision Tree Classifier | Accuracy: ~1.00
-   Random Forest Classifier | Accuracy: ~1.00
-   GradientBoost Classifier | Accuracy: ~0.995536
-   SupportVector Classifier | Accuracy: ~0.683036
+   Logistic Regression | Accuracy: ~0.826667
+   Decision Tree Classifier | Accuracy: ~0.760000
+   Random Forest Classifier | Accuracy: ~0.826667
+   GradientBoost Classifier | Accuracy: ~0.786667
+   SupportVector Classifier | Accuracy: ~0.693333
       
    - The next step is to improve the scores and fix any issue of overfitting.
       
